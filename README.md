@@ -33,8 +33,8 @@ Built a production-grade sentiment analysis system using fine-tuned BERT with SH
 - Token-level explainability
 - Deployed on Streamlit Cloud with Docker
 
-→ GitHub: [youtube-sentiment-analyzer](https://github.com/your-username/youtube-sentiment-analyzer)  
-→ Live App: [Streamlit Cloud App](https://your-app-url)
+→ GitHub: [youtube-sentiment-analyzer]([https://github.com/vengotimuktha/youtube-sentiment-analyzer](https://github.com/vengotimuktha/youtube-sentiment-analyzer))  
+→ Live App: [Streamlit Cloud App]([https://your-app-url](https://youtube--sentiment--analyzer.streamlit.app/))
 
 ---
 
@@ -44,7 +44,7 @@ Production-ready document Q&A system using:
 - Cloud-deployed on GCP with autoscaling
 - Real-time PDF/CSV ingestion, semantic search, and GPT retrieval
 
-→ GitHub: [enterprise-doc-intelligence](https://github.com/your-username/enterprise-doc-intelligence)
+→ GitHub: [enterprise-doc-intelligence]([https://github.com/your-username/enterprise-doc-intelligence](https://github.com/vengotimuktha/enterprise-bi-agent))
 
 ---
 
@@ -55,7 +55,7 @@ Built browser-based interactive visualizations for mutual fund data, including:
 - Treemap (Category share)
 - All deployed via GitHub Pages
 
-→ Demo: [D3.js Visualizations](https://your-username.github.io/mutual-fund-d3)
+→ Demo: [D3.js Visualizations]([https://your-username.github.io/mutual-fund-d3](https://github.com/vengotimuktha/mutual-fund-visualization))
 
 ---
 
