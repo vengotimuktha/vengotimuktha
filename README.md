@@ -1,89 +1,73 @@
 # Mukthasree Vengoti
 
-## About Me
+Welcome to my GitHub profile. I am a data scientist and machine learning practitioner with a strong focus on applied NLP, generative AI, and scalable data engineering solutions. My portfolio showcases production-grade projects built with transparency, explainability, and real-world deployment in mind.
 
-I am a results-driven Data Scientist and AI Engineer with hands-on expertise in building scalable machine learning systems, natural language processing pipelines, and Generative AI applications. My work spans applied NLP, retrieval-augmented generation (RAG), and real-time data engineering — deployed in production with strong emphasis on explainability, performance, and usability.
-
-With a background in Data Science and a strong foundation in Python, Spark, and cloud platforms like GCP, I’ve designed and deployed intelligent solutions for sentiment analysis, document intelligence, and risk analytics. I’m passionate about solving real-world problems by combining deep technical knowledge with a pragmatic understanding of business and user needs.
+I specialize in turning unstructured data into actionable insights using advanced ML techniques, explainability tools, and modern cloud-native architecture. This GitHub serves as a central hub for the AI/ML systems I have independently designed, developed, and deployed using technologies such as Spark, LangChain, BERT, FastAPI, Streamlit, and BigQuery.
 
 ---
 
-## Key Skills and Tools
+## Featured Projects
 
-**Languages & ML Frameworks**  
-Python · PySpark · Scikit-learn · TensorFlow · HuggingFace Transformers · XGBoost · LightGBM · Pandas · NumPy
+### Enterprise BI Agent
+**Repo:** [github.com/vengotimuktha/enterprise-bi-agent](https://github.com/vengotimuktha/enterprise-bi-agent)  
+A modular Retrieval-Augmented Generation (RAG) system for querying unstructured PDF and CSV files using LangChain, OpenAI, Spark, and ChromaDB. Includes metadata indexing, semantic search, secure FastAPI services, and Power BI integration for real-time business intelligence.
 
-**NLP & Generative AI**  
-BERT · OpenAI (GPT-4, Embeddings) · LangChain · FAISS · ChromaDB · Captum · LIME · SHAP
+### YouTube Sentiment Analyzer
+**Repo:** [github.com/vengotimuktha/youtube-sentiment-analyzer](https://github.com/vengotimuktha/youtube-sentiment-analyzer)  
+**Live App:** [youtube--sentiment--analyzer.streamlit.app](https://youtube--sentiment--analyzer.streamlit.app)  
+A production-grade sentiment classification system using fine-tuned BERT with SHAP, LIME, and Captum explainability. Features include rule-based moderation, token-level insights, batch processing, and a Streamlit Cloud deployment with Docker.
 
-**Data Engineering & Cloud**  
-Apache Spark · BigQuery · GCP (Cloud Run, Secret Manager, GCS) · FastAPI · Docker · SQL · GitHub Actions
+### Loan Risk Analytics (GCP)
+**Repo:** [github.com/vengotimuktha/loan-risk-analytics-gcp](https://github.com/vengotimuktha/loan-risk-analytics-gcp)  
+End-to-end cloud-native dashboard using BigQuery and Looker to analyze over 10 million loan records. Includes interactive filters, risk flags, KPIs, and SQL-optimized data modeling for sub-second response times.
 
-**Visualization & Dashboards**  
-Streamlit · Power BI · Looker Studio · D3.js · Matplotlib · Seaborn · HTML/CSS/JavaScript
+### Climate Forecasting with GPR, LSTM, ARIMA
+**Repo:** [github.com/vengotimuktha/climate-forecasting-gpr-lstm-arima](https://github.com/vengotimuktha/climate-forecasting-gpr-lstm-arima)  
+Probabilistic forecasting model for long-term climate trends using Gaussian Process Regression (GPR), ARIMA, and LSTM. Includes quantified uncertainty, seasonal trend decomposition, and RMSE/MAE benchmarking.
 
----
+### Privacy Risk Modeling on ECB Payments
+**Repo:** [github.com/vengotimuktha/privacy-risk-modeling-ecb-payments](https://github.com/vengotimuktha/privacy-risk-modeling-ecb-payments)  
+A GDPR-aligned privacy-preserving ML pipeline that predicts payment behavior from ECB transaction data while stratifying sensitive variables into risk tiers. Includes anonymization logic and Random Forest interpretation.
 
-## Notable Projects
+### SkyVision AI
+**Repo:** [github.com/vengotimuktha/skyvision_ai_final](https://github.com/vengotimuktha/skyvision_ai_final)  
+GenAI-powered document Q&A platform built using LangChain, OpenAI, and FAISS. Supports semantic chunking, query tracking, source highlighting, and secure deployment via Google Cloud Run and Docker.
 
-###  YouTube Sentiment Analyzer  
-Built a production-grade sentiment analysis system using fine-tuned BERT with SHAP, LIME, Captum, and safety logic. Features include:
-- Rule-based moderation override
-- Batch prediction with confidence scoring
-- Token-level explainability
-- Deployed on Streamlit Cloud with Docker
+### Mutual Fund Visualization (D3.js)
+**Repo:** [github.com/vengotimuktha/mutual-fund-visualization](https://github.com/vengotimuktha/mutual-fund-visualization)  
+Web-based visual analytics tool built with D3.js to compare expense ratios, fund returns, and asset distributions across categories. Includes bar charts, scatter plots, and zoomable treemaps deployed via GitHub Pages.
 
-→ GitHub: [youtube-sentiment-analyzer]([https://github.com/vengotimuktha/youtube-sentiment-analyzer](https://github.com/vengotimuktha/youtube-sentiment-analyzer))  
-→ Live App: [Streamlit Cloud App]([https://your-app-url](https://youtube--sentiment--analyzer.streamlit.app/))
+### NYC Taxi Fare & Duration Forecasting
+**Repo:** [github.com/vengotimuktha/NYC--Green--Tax-Data--Data-Science-Project](https://github.com/vengotimuktha/NYC--Green--Tax-Data--Data-Science-Project)  
+ML pipeline using XGBoost and Random Forest to predict taxi fares and trip durations based on geospatial data. Includes congestion analysis, SHAP explainability, and RMSE-based performance tracking.
 
----
-
-###  Enterprise Document Intelligence (RAG Pipeline)  
-Production-ready document Q&A system using:
-- LangChain · OpenAI · Apache Spark · FAISS · Power BI
-- Cloud-deployed on GCP with autoscaling
-- Real-time PDF/CSV ingestion, semantic search, and GPT retrieval
-
-→ GitHub: [enterprise-doc-intelligence]([https://github.com/your-username/enterprise-doc-intelligence](https://github.com/vengotimuktha/enterprise-bi-agent))
-
----
-
-###  Mutual Fund Visualization (D3.js)  
-Built browser-based interactive visualizations for mutual fund data, including:
-- Bar chart (Expense vs Return)
-- Scatter plot (Return-efficiency)
-- Treemap (Category share)
-- All deployed via GitHub Pages
-
-→ Demo: [D3.js Visualizations]([https://your-username.github.io/mutual-fund-d3](https://github.com/vengotimuktha/mutual-fund-visualization))
+### Gemini Exploror (Google Gemini Pro Exploration)
+**Repo:** [github.com/vengotimuktha/Gemini-Exploror](https://github.com/vengotimuktha/Gemini-Exploror)  
+Experimental LLM project using Google Gemini for Q&A, dataset enrichment, and content generation. Demonstrates prompting strategies and evaluation benchmarks.
 
 ---
 
-###  Loan Risk Analytics Dashboard  
-Created an end-to-end analytics system for 10M+ records using:
-- BigQuery · Looker · SQL · KPI cards · Sub-second query performance
+## In Progress / Coming Soon
+
+- **Twitter Sentiment Analysis (Sentiment140):** TF-IDF + ML ensemble pipeline with SMOTE, text preprocessing, and model comparisons.  
+- **Scientific Visualization Projects (C++, FLTK, OpenGL):**  
+  - 2D image processor for grayscale/color PGM/PPM formats  
+  - 3D volume renderer with real-time ray casting and view manipulation
 
 ---
 
-###  Scientific Visualization Suite (C++/OpenGL)  
-Built real-time volume rendering and image processing tools:
-- Ray casting · Smoothing · Edge detection · GUI sliders · Undo/Redo
-- Visualized `.pgm`, `.ppm`, and `.vol` files with interactive controls
+## Technologies I Work With
+
+**Languages:** Python, SQL, JavaScript, C++, HTML/CSS  
+**ML & NLP:** BERT, Transformers, SHAP, LIME, Captum, SMOTE, XGBoost, GPR, ARIMA, LSTM, TF-IDF  
+**Cloud & Data Engineering:** Google Cloud (BigQuery, Cloud Run, GCS, Secret Manager), Apache Spark, PySpark, LangChain, FAISS, ChromaDB  
+**Deployment & DevOps:** Docker, Streamlit Cloud, FastAPI, GitHub Actions  
+**Visualization:** D3.js, Power BI, Looker, Streamlit, Seaborn, Matplotlib
 
 ---
 
-## Publications
+## Career Goals
 
-- **In progress**: IEEE-style research paper on interpretable and scalable NLP systems with real-time explainability and deployment pipelines.
+I am actively seeking opportunities in AI/ML, Clinical Analytics, and Data Engineering where I can bring together analytical depth, domain relevance, and production-grade delivery. My focus is on building interpretable, scalable systems that deliver measurable value across healthcare, risk modeling, and data infrastructure domains.
 
----
-
-## Contact
-
-**Portfolio**: [datascienceportfol.io/mukthasreevengoti](https://datascienceportfol.io/mukthasreevengoti)  
-**LinkedIn**: [linkedin.com/in/mukthasree-vengoti](https://linkedin.com/in/mukthasree-vengoti)  
-**Email**: mukthasree.vengoti@gmail.com
-
----
-
-_This GitHub profile showcases real-world, production-grade projects with a focus on transparency, reliability, and innovation in AI/ML systems._
+Thank you for visiting my GitHub profile.
