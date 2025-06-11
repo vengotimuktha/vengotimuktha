@@ -1,6 +1,6 @@
 # Mukthasree Vengoti
 
-Welcome to my GitHub profile. I am a data scientist and machine learning practitioner with a strong focus on applied NLP, generative AI, and scalable data engineering solutions. My portfolio showcases production-grade projects built with transparency, explainability, and real-world deployment in mind.
+Welcome to my GitHub profile. I am a data scientist and machine learning practitioner with a strong focus on applied NLP, generative AI, and scalable data engineering solutions. My portfolio showcases production-grade projects built with transparency, explainability, and real-world deployment.
 
 I specialize in turning unstructured data into actionable insights using advanced ML techniques, explainability tools, and modern cloud-native architecture. This GitHub serves as a central hub for the AI/ML systems I have independently designed, developed, and deployed using technologies such as Spark, LangChain, BERT, FastAPI, Streamlit, and BigQuery.
 
