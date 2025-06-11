@@ -45,14 +45,6 @@ ML pipeline using XGBoost and Random Forest to predict taxi fares and trip durat
 **Repo:** [github.com/vengotimuktha/Gemini-Exploror](https://github.com/vengotimuktha/Gemini-Exploror)  
 Experimental LLM project using Google Gemini for Q&A, dataset enrichment, and content generation. Demonstrates prompting strategies and evaluation benchmarks.
 
----
-
-## In Progress / Coming Soon
-
-- **Twitter Sentiment Analysis (Sentiment140):** TF-IDF + ML ensemble pipeline with SMOTE, text preprocessing, and model comparisons.  
-- **Scientific Visualization Projects (C++, FLTK, OpenGL):**  
-  - 2D image processor for grayscale/color PGM/PPM formats  
-  - 3D volume renderer with real-time ray casting and view manipulation
 
 ---
 
