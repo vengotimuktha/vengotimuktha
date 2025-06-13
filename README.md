@@ -114,7 +114,7 @@ _Jun 2018 – Aug 2022_ • GPA: 8.11/10
 - Power BI for Business Analysts – LinkedIn Learning  
 - Streamlit Deployment & Interactive Dashboards – Coursera  
 - Modern NLP with HuggingFace Transformers – Udemy  
-- Machine Learning Specialization – Stanford / Coursera  
+- Machine Learning Specialization – Coursera  
 
 ---
 
@@ -122,8 +122,7 @@ _Jun 2018 – Aug 2022_ • GPA: 8.11/10
 
 - English – Professional Working Proficiency  
 - Telugu – Native  
-- Hindi – Conversational  
-
+  
 ---
 
 ##  Interests
@@ -132,13 +131,14 @@ _Jun 2018 – Aug 2022_ • GPA: 8.11/10
 - Scalable MLOps  
 - NLP Research  
 - Scientific Visualization  
-- Fitness & Indie Films  
+- Deep Learning
+- Decision Scientist
 
 ---
 
 ##  Contact
 
-**Email:** vengotimuktha@gmail.com  
+**Email:** mukthasree.vengoti@gmail.com  
 **LinkedIn:** [Mukthasree Vengoti](https://www.linkedin.com/in/mukthasree-vengoti/)  
 **GitHub:** [@vengotimuktha](https://github.com/vengotimuktha)
 
