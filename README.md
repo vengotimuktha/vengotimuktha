@@ -1,49 +1,128 @@
 # Mukthasree Vengoti
 
-Welcome to my GitHub profile. I am a data scientist and machine learning practitioner with a strong focus on applied NLP, generative AI, and scalable data engineering solutions. My portfolio showcases production-grade projects built with transparency, explainability, and real-world deployment.
+Welcome to my GitHub profile! I design and deploy real-world AI systems that transform messy, unstructured data into explainable, scalable, and production-grade insights — from GenAI-powered document Q&A pipelines to BigQuery dashboards with sub-second analytics.
 
-I specialize in turning unstructured data into actionable insights using advanced ML techniques, explainability tools, and modern cloud-native architecture. This GitHub serves as a central hub for the AI/ML systems I have independently designed, developed, and deployed using technologies such as Spark, LangChain, BERT, FastAPI, Streamlit, and BigQuery.
+My focus lies in applied NLP, generative AI, and cloud-native data engineering. This GitHub showcases the ML pipelines and AI solutions I’ve independently built using tools like Spark, LangChain, BERT, FastAPI, Streamlit, and BigQuery — all with a strong emphasis on transparency and explainability.
+
 
 ---
 
 ##  Featured Projects
 
 ###  Enterprise BI Agent
-**Repo:** [github.com/vengotimuktha/enterprise-bi-agent](https://github.com/vengotimuktha/enterprise-bi-agent)  
-A modular Retrieval-Augmented Generation (RAG) system for querying unstructured PDF and CSV files using LangChain, OpenAI, Spark, and ChromaDB. Includes metadata indexing, semantic search, secure FastAPI services, and Power BI integration for real-time business intelligence.
+**Repo:** [enterprise-bi-agent](https://github.com/vengotimuktha/enterprise-bi-agent)  
+![LangChain](https://img.shields.io/badge/RAG-LangChain-blue?logo=langchain)
+![OpenAI](https://img.shields.io/badge/LLM-OpenAI-informational?logo=openai)
+![Spark](https://img.shields.io/badge/ETL-Apache%20Spark-orange?logo=apache-spark)
+![Power BI](https://img.shields.io/badge/Reporting-PowerBI-yellow?logo=powerbi)
+
+> 🔹 Modular RAG system to query PDFs and CSVs using LangChain, Spark, and ChromaDB  
+> 🔹 Metadata indexing, semantic search, and GCP FastAPI backend  
+> 🔹 Real-time dashboards powered by Power BI
+
+---
 
 ###  YouTube Sentiment Analyzer
-**Repo:** [github.com/vengotimuktha/youtube-sentiment-analyzer](https://github.com/vengotimuktha/youtube-sentiment-analyzer)  
-**Live App:** [youtube--sentiment--analyzer.streamlit.app](https://youtube--sentiment--analyzer.streamlit.app)  
-A production-grade sentiment classification system using fine-tuned BERT with SHAP, LIME, and Captum explainability. Features include rule-based moderation, token-level insights, batch processing, and a Streamlit Cloud deployment with Docker.
+**Repo:** [youtube-sentiment-analyzer](https://github.com/vengotimuktha/youtube-sentiment-analyzer)  
+**Live App:** [Streamlit Demo](https://youtube--sentiment--analyzer.streamlit.app)  
+![Streamlit](https://img.shields.io/badge/Deployed%20on-Streamlit-ff4b4b?logo=streamlit)
+![BERT](https://img.shields.io/badge/Model-BERT-brightgreen?logo=bert)
+![Explainability](https://img.shields.io/badge/Explainability-SHAP%20%7C%20LIME%20%7C%20Captum-blueviolet)
+![Docker](https://img.shields.io/badge/Containerized-Docker-blue?logo=docker)
+
+> 🔹 Sentiment classifier using fine-tuned BERT with SHAP, LIME, and Captum  
+> 🔹 Includes rule-based toxic comment filtering and token-level insights  
+> 🔹 Batch predictions, CSV export, threshold sliders, and Dockerized deployment
+
+---
 
 ### Loan Risk Analytics (GCP)
-**Repo:** [github.com/vengotimuktha/loan-risk-analytics-gcp](https://github.com/vengotimuktha/loan-risk-analytics-gcp)  
-End-to-end cloud-native dashboard using BigQuery and Looker to analyze over 10 million loan records. Includes interactive filters, risk flags, KPIs, and SQL-optimized data modeling for sub-second response times.
+**Repo:** [loan-risk-analytics-gcp](https://github.com/vengotimuktha/loan-risk-analytics-gcp)  
+![BigQuery](https://img.shields.io/badge/Data-BigQuery-blue?logo=googlecloud)
+![Looker](https://img.shields.io/badge/Visualization-Looker-green?logo=looker)
+![GCP](https://img.shields.io/badge/Cloud-GCP-orange?logo=googlecloud)
 
-###  Climate Forecasting with GPR, LSTM, ARIMA
-**Repo:** [github.com/vengotimuktha/climate-forecasting-gpr-lstm-arima](https://github.com/vengotimuktha/climate-forecasting-gpr-lstm-arima)  
-Probabilistic forecasting model for long-term climate trends using Gaussian Process Regression (GPR), ARIMA, and LSTM. Includes quantified uncertainty, seasonal trend decomposition, and RMSE/MAE benchmarking.
+> 🔹 Cloud-native dashboard analyzing 10M+ loan records with KPIs and risk flags  
+> 🔹 SQL-optimized models with sub-second query response  
+> 🔹 End-to-end integration using BigQuery, Looker, and GCP services
 
-###  Privacy Risk Modeling on ECB Payments
-**Repo:** [github.com/vengotimuktha/privacy-risk-modeling-ecb-payments](https://github.com/vengotimuktha/privacy-risk-modeling-ecb-payments)  
-A GDPR-aligned privacy-preserving ML pipeline that predicts payment behavior from ECB transaction data while stratifying sensitive variables into risk tiers. Includes anonymization logic and Random Forest interpretation.
+---
+
+
 
 ###  SkyVision AI
-**Repo:** [github.com/vengotimuktha/skyvision_ai_final](https://github.com/vengotimuktha/skyvision_ai_final)  
-GenAI-powered document Q&A platform built using LangChain, OpenAI, and FAISS. Supports semantic chunking, query tracking, source highlighting, and secure deployment via Google Cloud Run and Docker.
+**Repo:** [skyvision_ai_final](https://github.com/vengotimuktha/skyvision_ai_final)  
+![LangChain](https://img.shields.io/badge/RAG-LangChain-blue?logo=langchain)
+![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS-blueviolet?logo=faiss)
+![OpenAI](https://img.shields.io/badge/LLM-OpenAI-informational?logo=openai)
+![GCP](https://img.shields.io/badge/Deploy-GCP%20Cloud%20Run-orange?logo=googlecloud)
+
+> 🔹 GenAI-powered document Q&A system using LangChain, FAISS, and OpenAI  
+> 🔹 Secure FastAPI backend with semantic chunking and query logging  
+> 🔹 GCP Cloud Run deployment with Docker and access controls
+
+---
+
+
+###  Climate Forecasting with GPR, LSTM, ARIMA
+**Repo:** [climate-forecasting-gpr-lstm-arima](https://github.com/vengotimuktha/climate-forecasting-gpr-lstm-arima)  
+![LSTM](https://img.shields.io/badge/Model-LSTM-orange)
+![ARIMA](https://img.shields.io/badge/Model-ARIMA-blue)
+![GPR](https://img.shields.io/badge/Model-Gaussian%20Process-brightgreen)
+
+> 🔹 Probabilistic forecasting of climate trends using GPR, ARIMA, and LSTM  
+> 🔹 Includes seasonal decomposition, RMSE/MAE benchmarking, and uncertainty plots  
+> 🔹 Time series pipeline built for long-term trend forecasting
+
+---
+
+###  Privacy Risk Modeling on ECB Payments
+**Repo:** [privacy-risk-modeling-ecb-payments](https://github.com/vengotimuktha/privacy-risk-modeling-ecb-payments)  
+![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-green)
+![GDPR](https://img.shields.io/badge/Compliant-GDPR-red)
+![Data](https://img.shields.io/badge/Dataset-ECB%20Payments-blue)
+
+> 🔹 Privacy-preserving ML pipeline for payment behavior prediction  
+> 🔹 Risk stratification of sensitive variables and anonymization logic  
+> 🔹 Random Forest explainability with GDPR-aligned practices
+
+---
+
 
 ###  Mutual Fund Visualization (D3.js)
-**Repo:** [github.com/vengotimuktha/mutual-fund-visualization](https://github.com/vengotimuktha/mutual-fund-visualization)  
-Web-based visual analytics tool built with D3.js to compare expense ratios, fund returns, and asset distributions across categories. Includes bar charts, scatter plots, and zoomable treemaps deployed via GitHub Pages.
+**Repo:** [mutual-fund-visualization](https://github.com/vengotimuktha/mutual-fund-visualization)  
+![D3.js](https://img.shields.io/badge/Visualization-D3.js-blue?logo=d3.js)
+![Frontend](https://img.shields.io/badge/Frontend-GitHub%20Pages-green)
+![Interactivity](https://img.shields.io/badge/Interactivity-Zoom%2C%20Tooltip%2C%20Highlight-yellow)
+
+> 🔹 Interactive dashboard using D3.js for fund returns, asset shares, and expense ratios  
+> 🔹 Includes scatter plots, donut charts, and zoomable treemaps  
+> 🔹 Deployed via GitHub Pages for easy public access
+
+---
 
 ###  NYC Taxi Fare & Duration Forecasting
-**Repo:** [github.com/vengotimuktha/NYC--Green--Tax-Data--Data-Science-Project](https://github.com/vengotimuktha/NYC--Green--Tax-Data--Data-Science-Project)  
-ML pipeline using XGBoost and Random Forest to predict taxi fares and trip durations based on geospatial data. Includes congestion analysis, SHAP explainability, and RMSE-based performance tracking.
+**Repo:** [NYC--Green--Tax-Data--Data-Science-Project](https://github.com/vengotimuktha/NYC--Green--Tax-Data--Data-Science-Project)  
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
+![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-green)
+![Geospatial](https://img.shields.io/badge/Data-Geospatial-brightgreen)
+![Explainability](https://img.shields.io/badge/Explainability-SHAP-blueviolet)
+
+> 🔹 Predicts NYC taxi fares and trip durations using geolocation features  
+> 🔹 Includes congestion heatmaps, SHAP analysis, and RMSE comparison  
+> 🔹 Built using XGBoost and Random Forest pipelines
+
+---
 
 ###  Gemini Exploror (Google Gemini Pro Exploration)
-**Repo:** [github.com/vengotimuktha/Gemini-Exploror](https://github.com/vengotimuktha/Gemini-Exploror)  
-Experimental LLM project using Google Gemini for Q&A, dataset enrichment, and content generation. Demonstrates prompting strategies and evaluation benchmarks.
+**Repo:** [Gemini-Exploror](https://github.com/vengotimuktha/Gemini-Exploror)  
+![Google Gemini](https://img.shields.io/badge/LLM-Gemini%20Pro-informational?logo=google)
+![Prompting](https://img.shields.io/badge/Experimentation-Prompt%20Engineering-yellow)
+![R&D](https://img.shields.io/badge/Use%20Case-Q%26A%2C%20Content%20Gen-blue)
+
+> 🔹 Experimental LLM project exploring Google Gemini for Q&A and content generation  
+> 🔹 Includes prompt engineering benchmarks and dataset enrichment  
+> 🔹 Research-focused repo with scope for further finetuning and evaluation
 
 ---
 
