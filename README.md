@@ -10,7 +10,8 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 ##  Featured Projects
 
 ###  Enterprise BI Agent
-**Repo:** [enterprise-bi-agent](https://github.com/vengotimuktha/enterprise-bi-agent)  
+**Repo:** [enterprise-bi-agent](https://github.com/vengotimuktha/enterprise-bi-agent) 
+
 ![LangChain](https://img.shields.io/badge/RAG-LangChain-blue?logo=langchain)
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI-informational?logo=openai)
 ![Spark](https://img.shields.io/badge/ETL-Apache%20Spark-orange?logo=apache-spark)
@@ -25,6 +26,7 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 ###  YouTube Sentiment Analyzer
 **Repo:** [youtube-sentiment-analyzer](https://github.com/vengotimuktha/youtube-sentiment-analyzer)  
 **Live App:** [Streamlit Demo](https://youtube--sentiment--analyzer.streamlit.app)  
+
 ![Streamlit](https://img.shields.io/badge/Deployed%20on-Streamlit-ff4b4b?logo=streamlit)
 ![BERT](https://img.shields.io/badge/Model-BERT-brightgreen?logo=bert)
 ![Explainability](https://img.shields.io/badge/Explainability-SHAP%20%7C%20LIME%20%7C%20Captum-blueviolet)
@@ -37,7 +39,8 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 ---
 
 ### Loan Risk Analytics (GCP)
-**Repo:** [loan-risk-analytics-gcp](https://github.com/vengotimuktha/loan-risk-analytics-gcp)  
+**Repo:** [loan-risk-analytics-gcp](https://github.com/vengotimuktha/loan-risk-analytics-gcp) 
+
 ![BigQuery](https://img.shields.io/badge/Data-BigQuery-blue?logo=googlecloud)
 ![Looker](https://img.shields.io/badge/Visualization-Looker-green?logo=looker)
 ![GCP](https://img.shields.io/badge/Cloud-GCP-orange?logo=googlecloud)
@@ -51,7 +54,8 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 
 
 ###  SkyVision AI
-**Repo:** [skyvision_ai_final](https://github.com/vengotimuktha/skyvision_ai_final)  
+**Repo:** [skyvision_ai_final](https://github.com/vengotimuktha/skyvision_ai_final) 
+
 ![LangChain](https://img.shields.io/badge/RAG-LangChain-blue?logo=langchain)
 ![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS-blueviolet?logo=faiss)
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI-informational?logo=openai)
@@ -66,6 +70,7 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 
 ###  Climate Forecasting with GPR, LSTM, ARIMA
 **Repo:** [climate-forecasting-gpr-lstm-arima](https://github.com/vengotimuktha/climate-forecasting-gpr-lstm-arima)  
+
 ![LSTM](https://img.shields.io/badge/Model-LSTM-orange)
 ![ARIMA](https://img.shields.io/badge/Model-ARIMA-blue)
 ![GPR](https://img.shields.io/badge/Model-Gaussian%20Process-brightgreen)
@@ -78,6 +83,7 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 
 ###  Privacy Risk Modeling on ECB Payments
 **Repo:** [privacy-risk-modeling-ecb-payments](https://github.com/vengotimuktha/privacy-risk-modeling-ecb-payments)  
+
 ![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-green)
 ![GDPR](https://img.shields.io/badge/Compliant-GDPR-red)
 ![Data](https://img.shields.io/badge/Dataset-ECB%20Payments-blue)
@@ -91,6 +97,7 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 
 ###  Mutual Fund Visualization (D3.js)
 **Repo:** [mutual-fund-visualization](https://github.com/vengotimuktha/mutual-fund-visualization)  
+
 ![D3.js](https://img.shields.io/badge/Visualization-D3.js-blue?logo=d3.js)
 ![Frontend](https://img.shields.io/badge/Frontend-GitHub%20Pages-green)
 ![Interactivity](https://img.shields.io/badge/Interactivity-Zoom%2C%20Tooltip%2C%20Highlight-yellow)
@@ -103,6 +110,7 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 
 ###  NYC Taxi Fare & Duration Forecasting
 **Repo:** [NYC--Green--Tax-Data--Data-Science-Project](https://github.com/vengotimuktha/NYC--Green--Tax-Data--Data-Science-Project)  
+
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
 ![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-green)
 ![Geospatial](https://img.shields.io/badge/Data-Geospatial-brightgreen)
@@ -116,6 +124,7 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 
 ###  Gemini Exploror (Google Gemini Pro Exploration)
 **Repo:** [Gemini-Exploror](https://github.com/vengotimuktha/Gemini-Exploror)  
+
 ![Google Gemini](https://img.shields.io/badge/LLM-Gemini%20Pro-informational?logo=google)
 ![Prompting](https://img.shields.io/badge/Experimentation-Prompt%20Engineering-yellow)
 ![R&D](https://img.shields.io/badge/Use%20Case-Q%26A%2C%20Content%20Gen-blue)
@@ -128,41 +137,53 @@ My focus lies in applied NLP, generative AI, and cloud-native data engineering. 
 
 ##  About Me
 
-I'm a data scientist and ML practitioner specializing in NLP, GenAI, and data engineering, with a proven track record of building real-world solutions across healthcare-adjacent, risk modeling, and analytics domains.
+I'm Mukthasree Vengoti — a data scientist and machine learning practitioner passionate about turning unstructured data into real-world, explainable solutions.
 
-I've developed scalable pipelines using Spark, PySpark, and BigQuery, and built production-ready ML systems with BERT, SHAP, and LangChain — deployed via Docker and Streamlit.
+I specialize in applied NLP, generative AI, and scalable data engineering. From building sentiment analyzers with token-level interpretability to designing enterprise-grade RAG pipelines, I focus on systems that are both **technically robust** and **deployable in production**.
 
-**My recent work includes:**
-- A BERT-based sentiment analyzer with SHAP, LIME, Captum, and rule-based moderation logic.
-- A GenAI-powered RAG pipeline using LangChain + PySpark for enterprise document intelligence.
-- A Looker + BigQuery dashboard supporting 10M+ loan records with sub-second response time.
-- Climate forecasting using GPR, ARIMA, and LSTM with quantified uncertainty (RMSE: 0.26).
+My work spans across:
+- End-to-end ML pipelines with BERT, SHAP, LangChain, and FastAPI  
+- Cloud-native deployments using Docker, Streamlit Cloud, and GCP (Cloud Run, BigQuery)  
+- Business reporting via Power BI and Looker dashboards  
+- Experimental research with LLMs, prompt engineering, and explainability
 
-I’ve also designed A/B testing pipelines using Python and SQL, optimized stakeholder dashboards, and automated workflows that reduced reporting time by 40%.
+What sets me apart is a strong blend of:
+- **ML modeling + system design**
+- **Explainability + moderation features**
+- **Data storytelling + stakeholder integration**
+
+Whether it's modeling risk from 10M+ loan records or creating semantic search over regulatory PDFs, I thrive on building **transparent, scalable, and usable AI systems** from scratch.
+
+Always open to collaboration, learning, and pushing the boundaries of what AI can do.
 
 ---
 
 ##  Work Experience
 
 **Generative AI Engineer**  
-_Reality AI Lab_ • Remote • Feb 2024 – Present  
-- Designed a full-stack document Q&A system using LangChain, OpenAI embeddings, and FAISS.  
-- Achieved ~3s API response time with <100ms vector retrieval using `text-embedding-ada-002`.  
-- Deployed via Google Cloud Run, Docker, and GCP Secret Manager with auto-scaling.  
-- Developed Streamlit frontend with query tracking and context display.
+**Reality AI Lab** • Remote • Feb 2024 – Present  
+- Designed and deployed a full-stack GenAI-based document Q&A system using LangChain, OpenAI embeddings (`text-embedding-ada-002`), and FAISS  
+- Achieved ~3s API response time with <100ms vector retrieval latency  
+- Deployed via Dockerized FastAPI backend on Google Cloud Run with secure key management (GCP Secret Manager)  
+- Built an interactive Streamlit frontend with query tracking and context-aware highlighting for business users
+
+--- 
 
 **Applied Data Scientist | YouTube Sentiment Analyzer**  
-_Self-Directed | Remote_ • Aug 2023 – Jan 2024  
-- Built BERT-based sentiment classifier (89.2% accuracy), balanced with SMOTE + backtranslation.  
-- Integrated SHAP, LIME, Captum explainability and rule-based toxic comment filtering.  
-- Deployed to Streamlit Cloud with CSV export, confidence scores, and threshold sliders.
+**Self-Directed Project** • Remote • Aug 2023 – Jan 2024  
+- Developed a production-ready sentiment classification system using fine-tuned BERT (89.2% accuracy)  
+- Balanced classes using SMOTE + English–French backtranslation for minority sentiment categories  
+- Integrated SHAP, LIME, and Captum explainability, along with a rule-based moderation override 
+- Deployed to Streamlit Cloud with batch prediction, token-level insights, threshold sliders, and exportable CSV reports
+
+---
 
 **Freelance Data Engineer | Enterprise Document Intelligence**  
-_India_ • Aug 2022 – Jul 2023  
-- Built scalable RAG system with Spark + FAISS across 100+ PDFs and CSVs.  
-- Deployed FastAPI microservices on GCP using Docker + autoscaling.  
-- Enabled semantic metadata search with <200ms latency.  
-- Integrated Power BI for stakeholder reporting.
+**Client Project** • Aug 2022 – Jul 2023  
+- Built a scalable Retrieval-Augmented Generation (RAG) system for 100+ PDFs/CSVs using PySpark and LangChain  
+- Designed and deployed FastAPI microservices on GCP with Docker and autoscaling enabled  
+- Enabled real-time metadata search and semantic similarity ranking using FAISS  
+- Integrated Power BI dashboards for executive reporting with sub-second performance across indexed documents
 
 ---
 
@@ -178,40 +199,40 @@ _Jun 2018 – Aug 2022_ • GPA: 8.11/10
 
 ##  Technical Skills
 
-**Languages:** Python, SQL, JavaScript, C++, HTML/CSS, R  
-**ML & NLP:** BERT, Transformers, SHAP, LIME, Captum, XGBoost, GPR, ARIMA, LSTM, SMOTE, TF-IDF  
-**Data & Cloud:** Apache Spark, PySpark, BigQuery, Airflow, FAISS, GCP (Cloud Run, GCS, Secrets), ChromaDB  
+**Languages:** Python, SQL, R, JavaScript, C++, HTML/CSS  
+**Machine Learning & NLP:** BERT, Transformers, XGBoost, SHAP, LIME, Captum, TF-IDF, SMOTE, GPR, ARIMA, LSTM  
+**Data Engineering & Cloud:** Apache Spark, PySpark, BigQuery, Airflow, FAISS, ChromaDB, GCP (Cloud Run, GCS, Secret Manager)  
 **Frameworks & DevOps:** FastAPI, Streamlit, Docker, GitHub Actions  
 **Visualization:** Power BI, Looker, D3.js, Matplotlib, Seaborn  
-**Tools:** HuggingFace, Vertex AI, Git, Jupyter Notebooks, Agile  
+**Tools & Platforms:** HuggingFace, Vertex AI, Git, JupyterLab, Agile
 
 ---
 
 ##  Certifications
 
-- Google Cloud Big Data & ML Fundamentals  
-- Power BI for Business Analysts – LinkedIn Learning  
-- Streamlit Deployment & Interactive Dashboards – Coursera  
-- Modern NLP with HuggingFace Transformers – Udemy  
-- Machine Learning Specialization – Coursera  
+- **Google Cloud Big Data & ML Fundamentals** – Coursera  
+- **Power BI for Business Analysts** – LinkedIn Learning  
+- **Streamlit Deployment & Interactive Dashboards** – Coursera  
+- **Modern NLP with HuggingFace Transformers** – Udemy  
+- **Machine Learning Specialization** – Coursera   
 
 ---
 
 ##  Languages
 
-- English – Professional Working Proficiency  
-- Telugu – Native  
+- **English** – Professional Working Proficiency  
+- **Telugu** – Native  
   
 ---
 
 ##  Interests
 
 - Generative AI & Explainability  
-- Scalable MLOps  
-- NLP Research  
+- Scalable MLOps & Cloud AI  
+- NLP Research & Prompt Engineering  
 - Scientific Visualization  
-- Deep Learning
-- Decision Scientist
+- Real-world Forecasting Systems  
+- Decision Intelligence  
 
 ---
 
@@ -226,8 +247,8 @@ _Jun 2018 – Aug 2022_ • GPA: 8.11/10
 
 ##  GitHub Stats
 
-![Mukthasree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vengotimuktha&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vengotimuktha&layout=compact)
+![Mukthasree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vengotimuktha&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vengotimuktha&layout=compact&theme=radical)  
 
 <!-- Optional Profile View Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=vengotimuktha&color=blue)
