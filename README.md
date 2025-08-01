@@ -162,10 +162,16 @@ Always open to collaboration, learning, and pushing the boundaries of what AI ca
 
 **Generative AI Engineer**  
 **Reality AI Lab** • Remote • Feb 2024 – Present  
-- Designed and deployed a full-stack GenAI-based document Q&A system using LangChain, OpenAI embeddings (`text-embedding-ada-002`), and FAISS  
-- Achieved ~3s API response time with <100ms vector retrieval latency  
-- Deployed via Dockerized FastAPI backend on Google Cloud Run with secure key management (GCP Secret Manager)  
-- Built an interactive Streamlit frontend with query tracking and context-aware highlighting for business users
+- Partnered with a cross-functional team of 15+ engineers and compliance experts to design and deploy an Intelligent Document Processing (IDP) system 
+automating compliance-heavy financial and mortgage workflows. 
+- Built a hybrid AI pipeline integrating OCR (Tesseract), DistilBERT + LayoutLM for document classification and extraction, and GPT-4 (via LangChain + 
+FAISS) for semantic Q&A, delivering sub-100ms query responses. 
+- Processed 1,000+ unstructured financial documents (Loan Estimates, Closing Disclosures, W-2, 1040, Bank Statements), reducing manual review by 
+80% and accelerating decision-making. 
+- Fine-tuned DistilBERT, achieving 86% accuracy (F1: 0.85) for multi-class classification, and developed regex + LayoutLM hybrid extraction ensuring 99% 
+precision for APR, SSN, and tax fields while enforcing PII masking and RBAC controls. 
+- Developed and deployed FastAPI-based microservices for model inference and compliance Q&A, integrated with Airflow + MLflow for orchestration, 
+and containerized on GCP Cloud Run with CI/CD for 99.9% uptime and 60% faster retraining cycles. 
 
 --- 
 
