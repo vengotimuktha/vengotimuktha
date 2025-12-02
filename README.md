@@ -1,8 +1,10 @@
 # Mukthasree Vengoti
 
-Welcome to my GitHub profile! I design and deploy real-world AI systems that transform messy, unstructured data into explainable, scalable, and production-grade insights — from GenAI-powered document Q&A pipelines to BigQuery dashboards with sub-second analytics.
+I am a GCP DevOps Engineer with 3+ years of hands-on experience in automating CI/CD pipelines, managing Kubernetes (GKE) clusters, and optimizing cloud performance and cost across multi-environment deployments. I specialize in Terraform-based Infrastructure as Code, Jenkins, Cloud Build, Docker, and secure, scalable automation with strong focus on IAM and Cloud Monitoring.
 
-My focus lies in applied NLP, generative AI, and cloud-native data engineering. This GitHub showcases the ML pipelines and AI solutions I’ve independently built using tools like Spark, LangChain, BERT, FastAPI, Streamlit, and BigQuery — all with a strong emphasis on transparency and explainability.
+Along with my industry experience, I am completing my Master’s in Data Science in the USA, where I design and deploy real-world AI and ML systems. I build scalable pipelines that transform messy, unstructured data into explainable insights — ranging from GenAI-powered document Q&A, applied NLP, and LLM workflows, to BigQuery analytics dashboards.
+
+This GitHub showcases the end-to-end AI, ML, and DevOps solutions I’ve built independently using tools like Spark, LangChain, BERT, FastAPI, Streamlit, GKE, and BigQuery, with a strong emphasis on reliability, transparency, automation, and production readiness.
 
 
 ---
